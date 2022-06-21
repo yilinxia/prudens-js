@@ -1,0 +1,4 @@
+{
+    "kb": "@KnowledgeBase\nR1 :: a, b implies c;\nR2 :: c, d implies e;\nR3 :: a, d, e implies f;\nR4 :: e, f, g implies x;\nR5 :: a, c implies -x;\nR6 :: a, d, e, -x implies y;\nR7 :: e, g implies y;\nR8 :: y, f, g implies z;\n    R9 :: x, b implies z;",
+    "context": "a; b; d; g;"
+}
